@@ -1,20 +1,10 @@
 <ul>
-    <li>🌱 <b>I’m currently learning</b>: Fullstack Web Development</li>
+    <li>🌱 <b>I’m currently learning</b>: Go Programming Language</li>
     <li>🎯 <b>I’m currently focusing on</b>: Learn advanced backend development more deeper.</li>
     <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/yusufwdn/yusufwdn/issues">Here</a>.</li>
     <li>📫 <b>How to reach me</b>: Catch and follow me from the contact section below.</li>
     <li>😄 <b>Fun fact</b>: I love coding and some sport activities.</li>
 </ul>
-
-
-
-## Overviews
-
-![](https://komarev.com/ghpvc/?username=yusufwdn&color=green)
-
-![Yusuf Wandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufwdn&hide=contribs,prs)
-
-
 
 ## Programming Skills
 
@@ -41,10 +31,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufwdn&layout=compact)
-
-
 
 ## My Contacts
 
