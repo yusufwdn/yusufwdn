@@ -6,6 +6,10 @@
     <li>😄 <b>Fun fact</b>: I love coding and some sport activities.</li>
 </ul>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufwdn&layout=compact)
+
+
 ## Programming Skills
 
 - Frontend Development
