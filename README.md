@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufwdn&layout=compact)
 
-
+<!---
 ## Programming Skills
 
 - Frontend Development
@@ -40,8 +40,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+-->
 
-## My Contacts
+## Contacts
 
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=yusuf.wandana1@gmail.com" target="_blank">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://linkedin.com/in/yusuf-wandana" target="_blank">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
