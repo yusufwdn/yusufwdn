@@ -1,5 +1,5 @@
 <ul>
-    <li>🌱 <b>I’m currently learning</b>: Go, Java, and ASP.NET</li>
+    <li>🌱 <b>I’m currently learning</b>: Go, Java, Javascript, and Python</li>
     <li>🎯 <b>I’m currently focusing on</b>: Learn advanced backend development more deeper.</li>
     <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/yusufwdn/yusufwdn/issues">Here</a>.</li>
     <li>📫 <b>How to reach me</b>: Catch and follow me from the contact section below.</li>
