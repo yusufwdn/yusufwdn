@@ -1,13 +1,13 @@
 <ul>
-    <li>🌱 <b>I’m currently learning</b>: Javascript, Go, and Python</li>
-    <li>🎯 <b>I’m currently focusing on</b>: Learn advanced backend development more deeper.</li>
+    <li>🌱 <b>I’m currently learning</b>: How to survive.</li>
+    <li>🎯 <b>I’m currently focusing on</b>: Upgrading my real life.</li>
     <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/yusufwdn/yusufwdn/issues">Here</a>.</li>
     <li>📫 <b>How to reach me</b>: Catch and follow me from the contact section below.</li>
-    <li>😄 <b>Fun fact</b>: I love coding, music, sport activities, and JKT48.</li>
+    <li>😄 <b>Fun fact</b>: I love coding, music, and some sport activities.</li>
 </ul>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufwdn&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufwdn&layout=compact) -->
 
 <!---
 ## Programming Skills
